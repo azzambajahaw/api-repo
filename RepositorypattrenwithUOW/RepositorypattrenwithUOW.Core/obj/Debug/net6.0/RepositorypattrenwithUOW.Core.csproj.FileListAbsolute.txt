@@ -1,0 +1,12 @@
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\bin\Debug\net6.0\RepositorypattrenwithUOW.Core.deps.json
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\bin\Debug\net6.0\RepositorypattrenwithUOW.Core.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\bin\Debug\net6.0\RepositorypattrenwithUOW.Core.pdb
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.csproj.AssemblyReference.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.AssemblyInfoInputs.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.AssemblyInfo.cs
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.csproj.CoreCompileInputs.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\refint\RepositorypattrenwithUOW.Core.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\RepositorypattrenwithUOW.Core.pdb
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.Core\obj\Debug\net6.0\ref\RepositorypattrenwithUOW.Core.dll

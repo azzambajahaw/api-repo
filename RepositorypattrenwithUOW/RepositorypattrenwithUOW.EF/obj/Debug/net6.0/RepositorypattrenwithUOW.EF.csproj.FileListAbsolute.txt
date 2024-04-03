@@ -1,0 +1,17 @@
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.EF.deps.json
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.EF.runtimeconfig.json
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.EF.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.EF.pdb
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.csproj.AssemblyReference.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.AssemblyInfoInputs.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.AssemblyInfo.cs
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.csproj.CoreCompileInputs.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\refint\RepositorypattrenwithUOW.EF.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.pdb
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.genruntimeconfig.cache
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\ref\RepositorypattrenwithUOW.EF.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.Core.dll
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\bin\Debug\net6.0\RepositorypattrenwithUOW.Core.pdb
+D:\visualprojects\RepositorypattrenwithUOW\RepositorypattrenwithUOW.EF\obj\Debug\net6.0\RepositorypattrenwithUOW.EF.csproj.CopyComplete
